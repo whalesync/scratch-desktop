@@ -12,7 +12,7 @@ brew install --cask whalesync/scratch-desktop/scratch-desktop
 
 > Apple Silicon (arm64) only. Intel Macs are not supported by the cask — use the [direct download](#direct-download) instead.
 
-After install, launch **Scratch Desktop** from `/Applications` or Spotlight.
+After install, launch **Scratch** from `/Applications` or Spotlight (the bundle is `Scratch.app`).
 
 ### Pinning a specific version
 
